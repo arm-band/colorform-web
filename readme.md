@@ -1,4 +1,4 @@
-# 色計算フォーム（Web向け）
+# <a href="https://arm-band.github.io/colorform-web/">色計算フォーム（Web向け）</a>
 
 色コードを16進数と10進数、相互に変換するためのフォームです。  
 <a href="https://arm-band.github.io/colorform-system/">システム向け</a>を作るに当たって、ベースとして16進トリプレットを扱ったものを作りました。
